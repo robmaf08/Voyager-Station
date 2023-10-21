@@ -1,0 +1,13 @@
+Questa e' solamente una guida!
+Comando: @turn_on##Per l'accensione della navicella
+Comando: @activate_motors##Per l'attivazione dei motori
+Comando: @automatic_pilot_on@#Per l'attivazione del pilota automatico
+Comando: @depressurize_on##Per depressurizzare la navicella
+Comando: @close_doors##Per disattivare le portiere
+Comando: @set_destination_earth@#Per impostare la destinazione di viaggio
+Comando: @set_emergency state ##Da attivare in caso di emergenza, qualunque sia l'emergenza
+Comando: @protection_on##Per progettersi dall'atsmofera al rientro
+Comando: @activate_thrusters##Per attivare i propulsori di lancio
+Comando: @liftoff##Per avviare la procedura di lancio
+Comando: @radio_on##Per l'attivazione della comunicazione aerea
+Comando: @land##Per partire
