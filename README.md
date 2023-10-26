@@ -174,7 +174,7 @@ Si è utilizzato <b> JDBC </b> (Java DataBase Connectivity) in combinazione con 
 
 <figure>
 <div align="center">
-<img width="400" height="300"  src="img/pass_rooms.png">
+<img width="400" height="300"  src="img/pass_rooms.PNG">
 </div>
 </figure>
 
